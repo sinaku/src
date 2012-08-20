@@ -1,0 +1,7 @@
+*.suo
+obj
+bin
+*.csproj.user
+*.vbproj.user
+*.csproj.webinfo
+*.vbproj.webinfo
